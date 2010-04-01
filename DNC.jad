@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: DNC
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_xml,net_rim_xml_org
+MIDlet-Jar-Size: 16992
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1270160816
+MIDlet-Jar-URL: DNC.jar
+RIM-COD-URL: DNC.cod
+RIM-COD-SHA1: f5 0a 54 12 05 aa a5 13 df 71 9c 2c 95 7b bf 8c ad 9f 73 34
+RIM-COD-Size: 5876
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: DNC
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0
